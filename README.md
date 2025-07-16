@@ -1,5 +1,6 @@
 # Kaggle-TSS-Hack-1
 Kaggle Competition organized by TSS(Thapar Summer School)
+Evaluate on R^2
 # Features and Models Used
 1. # Linear Regression
 2. # Ridge Regression

@@ -7,3 +7,6 @@ Evaluate on R^2
 3. # Linear Regression with Polynomial Feature
 4. # AdaBoost Regressor
 5. # Random Forest Regressor
+
+#Kaggle Competition Link
+https://www.kaggle.com/competitions/summer-school-hack-i
